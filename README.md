@@ -1,5 +1,3 @@
 - 👋 Hi, I’m FATİH
--  I learned HTML,CSS and JAVASCRİPT
--  I am currently learning REACT and REDUX
--  you want reach me email adress and twitter
--  email adress : fatihmehmetsadic@gmail.com
+-  I'm intern front end developer who loves to learn new technologies.
+-  How to reach me : fatihmehmetsadic@gmail.com
